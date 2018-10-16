@@ -3,7 +3,7 @@ I created an iOS app to track a user as they move around the city.  The app uses
 
 I created an iOS app to track a user as they move around the city.  The app uses Polylines and real-time location tracking to find the user’s position and draw their path.
 ## Technologies:
-1Swift
+-Swift
 -XCode
---CoreLocation Framework
----Polylines
+-CoreLocation Framework
+-Polylines
